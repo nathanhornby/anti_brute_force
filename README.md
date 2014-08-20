@@ -1,7 +1,3 @@
-**You should be using https://github.com/michael-e/members_anti_brute_force instead**
-
----
-
 # Anti Brute Force #
 
 Version: 1.4
